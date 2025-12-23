@@ -10,3 +10,8 @@ const katta = "frontend";
 console.log(katta.toUpperCase());
 // toUpperCase hamma sozni kattalashtiradi
 
+for (i = 0; i <= 10; i++) {
+  console.log(i);
+}
+//  for chiklidan foydalanib ishladik
+
