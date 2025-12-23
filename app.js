@@ -40,3 +40,6 @@ const kopay = [1, 2, 3, 4];
 console.log(kopay.map((item) => item * 10));
 // map blan ishladik va map vazifasi har bir valueni ichiga kirib 10ga kopaytirib chiqiyapti
 
+let uzunlik = "JavsScript";
+console.log(uzunlik.length);
+
