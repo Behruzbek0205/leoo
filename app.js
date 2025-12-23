@@ -15,3 +15,9 @@ for (i = 0; i <= 10; i++) {
 }
 //  for chiklidan foydalanib ishladik
 
+const meva = ["olma", "gilos"];
+meva.push("nok");
+console.log(meva);
+// console.log(meva + ',nok');
+// push oxirigs qoshib berdi
+
