@@ -21,3 +21,15 @@ console.log(meva);
 // console.log(meva + ',nok');
 // push oxirigs qoshib berdi
 
+//  alert, promt, confirm
+
+// alert userni ogohlantirish sifatida ishlatiladi
+// alert('nma gap')
+
+// promt bu userdan malumot olsih uchun ishlatiladi
+// let promt = prompt("yoshingizni kiriting");
+// if (promt >= 18) {
+//   console.log("ktish mumkin");
+// } else {
+//   console.log("hali yosh siz");
+// }
